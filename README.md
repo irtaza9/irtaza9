@@ -18,6 +18,4 @@
 
 - 🌱 let's talk about fundamentals
 
-- 💬 Ask me about **iOS, React, PHP and Node**
-
 - 📫 How to reach me **irtazawani100@gmail.com**
