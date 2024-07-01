@@ -13,20 +13,11 @@
    <a href="https://twitter.com/IrtazaHussain_">
     <img alt="Irtaza Hussain's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-
 </p>
 <br />
 
-- 🌱 I’m working on **React.Js, Next.Js, Php, Node.Js, PosgreSql and Swift**
+- 🌱 let's talk about fundamentals
 
-- 💬 Ask me about **iOS, Swift, SwiftUI, React.Js, Next.Js, Php and Node**
+- 💬 Ask me about **iOS, React, PHP and Node**
 
 - 📫 How to reach me **irtazawani100@gmail.com**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irtaza9&count_private=true&show_icons=true" />
-</p>
-<br />
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irtaza9&" />
-</p>
